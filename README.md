@@ -26,9 +26,10 @@ var foo = “bar”
 1. 숫자
 ### 링크
 [블로그](teragoon.wordpress.com)
+
 #주의
 1. 이렇게 해야합니다.
 
-“`
+"'
 var i = 0;
-“`
+"'
